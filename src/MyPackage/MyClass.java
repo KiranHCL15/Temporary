@@ -16,7 +16,8 @@ public class MyClass {
 		driver=new ChromeDriver();
 //		driver.get("www.google.com");
 		Thread.sleep(2000);
-		System.out.println("before test");
+		System.out.println("before   test");
+		
 		
 	}
 	
